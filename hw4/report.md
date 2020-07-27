@@ -59,6 +59,8 @@ python cs285/scripts/run_hw4_mb.py --exp_name cheetah --env_name cheetah-cs285-v
 
 ![img](fig/reacher.jpg)
 
+![img](fig/cheetah.png)
+
 
 
 # Problem 4: Hyperparameter

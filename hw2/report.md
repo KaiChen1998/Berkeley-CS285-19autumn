@@ -58,6 +58,8 @@ python cs285/scripts/run_hw2_policy_gradient.py --env_name InvertedPendulum-v2 -
 1000 --discount 0.9 -n 100 -l 2 -s 64 -b 100 -lr 8e-3 -rtg --exp_name ip_b<100>_r<8e-3>
 ```
 
+![img](fig/4.png)
+
 
 
 # LunarLander
